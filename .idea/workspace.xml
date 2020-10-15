@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0291edc-86ff-4e38-a712-3c066efefbfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navigation.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navigation.jspf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/in28minutes/filter/LoginRequiredFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/in28minutes/filter/LoginRequiredFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/in28minutes/login/LoginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/in28minutes/login/LoginService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/in28minutes/logout/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/in28minutes/logout/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/in28minutes/todo/ListTodoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/in28minutes/todo/ListTodoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.in28minutes/servlet-webapp/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.in28minutes/servlet-webapp/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iuizZd27m8p6BMZIspZgA6sWN9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0291edc-86ff-4e38-a712-3c066efefbfb" name="Default Changelist" comment="" />
+      <created>1602764140947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602764140947</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -4,7 +4,7 @@
 
 		<ul class="nav navbar-nav">
 			<li><a href="#">Home</a></li>
-			<li class="active"><a href="/list-todos.do">Todos</a></li>
+			<li class="active"><a href="/list-todos.do">Todo's</a></li>
 		</ul>
 
 		<ul class="nav navbar-nav navbar-right">
